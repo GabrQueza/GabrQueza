@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Software_Engineer-1E293B?style=flat-square&logoColor=white" alt="Software Engineer" />
 </div>
 
-I am a recently graduated Computer Engineer from CEFET-MG with a passion for building scalable web applications. What drives me is the challenge of turning complex problems into elegant, highly performant solutions. From engineering resilient authentication flows to optimizing front-end performance, programming is where my logic-puzzle-solving mindset truly shines. Currently expanding my horizons from Front-End into the Full Stack and Data Engineering realms! 
+I am a recently graduated Computer Engineer from CEFET-MG with a passion for building scalable web applications. What drives me is the challenge of turning complex problems into elegant, highly performant solutions. From engineering resilient authentication flows to optimizing front-end performance, programming is where my logic-puzzle-solving mindset truly shines. Currently expanding my horizons from Front-End into the Full Stack realm! 
 
 Outside of work, I love FPS/RPG games and going to the gym. Feel free to connect! 🧩
 
