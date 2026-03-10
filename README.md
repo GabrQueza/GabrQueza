@@ -24,8 +24,8 @@ Outside of work, I love FPS/RPG games and going to the gym. Feel free to connect
 ### 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="Gabriel's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrQueza&show_icons=true&theme=tokyonight&hide_border=true" alt="Gabriel's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrQueza&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="150"/>
 </p>
 
 ---
