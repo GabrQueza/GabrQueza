@@ -19,6 +19,7 @@ Outside of work, I love FPS/RPG games and going to the gym. Feel free to connect
 **Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
+<!--
 ---
 
 ### 📊 Stats
@@ -29,6 +30,7 @@ Outside of work, I love FPS/RPG games and going to the gym. Feel free to connect
 </p>
 
 ---
+-->
 
 ### 👨‍💻 <details><summary>Gabriel's Coding Journey & Milestones</summary>
 <br>
