@@ -18,7 +18,7 @@ Outside of work, I love FPS/RPG games and going to the gym. Feel free to connect
 
 **DevOps, Data & Tools:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+<!-- 
 ---
 
 ### 📊 Stats
@@ -27,7 +27,7 @@ Outside of work, I love FPS/RPG games and going to the gym. Feel free to connect
   <img src="https://github-readme-stats.vercel.app/api?username=GabrQueza&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="Gabriel's GitHub stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrQueza&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="150"/>
 </p>
-
+-->
 ---
 
 ### 👨‍💻 <details><summary>Gabriel's Coding Journey & Milestones</summary>
